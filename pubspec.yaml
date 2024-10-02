@@ -1,7 +1,7 @@
 name: flutter_custom_bloc
-description: "A new Flutter package project."
+description: "The Flutter Custom BLoC Library offers a lightweight implementation of the BLoC pattern for efficient state management in Flutter applications. By utilizing Dart's streams, it separates business logic from the UI, featuring BlocProvider for dependency injection and BlocBuilder for reactive updates, enhancing code maintainability."
 version: 0.0.1
-homepage:
+homepage: https://github.com/f1forhelp/custom_bloc
 
 environment:
   sdk: ^3.5.3
